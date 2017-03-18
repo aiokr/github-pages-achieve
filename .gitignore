@@ -1,7 +1,2 @@
-_site/
-*.swp
-*.~vsd
-\#*\#
-*~
-.DS_Store
-Gemfile.lock
+_site
+node_modules
