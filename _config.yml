@@ -16,12 +16,12 @@ owner:
 gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
+douban_username:  
+twitter_username: 
+github_username: 
 facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+weibo_username:  
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
