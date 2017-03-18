@@ -49,6 +49,9 @@ defaults:
 # Disqus settings
 disqus_username: aiokr
 
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
