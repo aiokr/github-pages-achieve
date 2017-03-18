@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: aiokr
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "自强不息 厚德载物"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "https://aiokr.github.io"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " aiokr"
+  email: hiaiokr@gmail.com
+  bio: "处江湖之远"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
@@ -42,16 +42,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "aiokr"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : disqus
   duoshuo :
-    short_name : cnfeat
+    short_name : 
   disqus :
-      short_name : cnfeat
+      short_name : aiokr
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-80884545-1
