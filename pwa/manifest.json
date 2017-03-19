@@ -8,9 +8,9 @@
       "type": "image/png"
     }
   ],
+  "background_color": "#fff",
+  "theme_color": "#000",
   "start_url": "/",
   "display": "standalone",
-  "orientation": "landscape",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "orientation": "portrait"
 }
