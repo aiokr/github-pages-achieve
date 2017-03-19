@@ -6,9 +6,11 @@
       "src": "launcher.png",
       "sizes": "144x144",
       "type": "image/png"
-    },
+    }
   ],
   "start_url": "/index.html",
   "display": "standalone",
-  "orientation": "landscape"
+  "orientation": "landscape",
+  "background_color": "#fff",
+  "theme_color": "#000",
 }
