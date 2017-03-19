@@ -51,8 +51,9 @@ defaults:
 # Disqus settings
 disqus_username: aiokr
 
-# theme color
+# Progressive Web Apps
 chrome-tab-theme-color: "#607D8B"
+service-worker: true
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
