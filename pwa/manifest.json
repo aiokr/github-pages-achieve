@@ -1,6 +1,7 @@
 {
   "short_name": "aiokr blog",
   "name": "aiokr blog",
+  "description": "知行合一",
   "icons": [
     {
       "src": "launcher.png",
