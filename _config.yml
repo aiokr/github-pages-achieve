@@ -52,7 +52,7 @@ defaults:
 disqus_username: aiokr
 
 # theme color
-chrome-tab-theme-color: "#536DFE"
+chrome-tab-theme-color: "#607D8B"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
