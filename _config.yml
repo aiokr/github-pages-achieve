@@ -6,6 +6,7 @@ tagline: "cn"
 description: "自强不息 厚德载物"  
 baseurl: ""
 url: "https://aiokr.github.io"  
+baseurl: ""
 
 # About/contact
 owner: 
