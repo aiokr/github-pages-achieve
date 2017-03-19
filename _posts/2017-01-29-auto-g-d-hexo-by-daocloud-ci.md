@@ -3,6 +3,7 @@ title: 通过DaoCloud的持续集成发布Hexo博客
 date: 2017-01-29 22:47:04
 tags: [ci,DaoCloud,持续集成,Hexo]
 categories: 技术文档
+catalog:  true
 ---
 [TOC]
 
