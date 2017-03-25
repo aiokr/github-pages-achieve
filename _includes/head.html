@@ -27,9 +27,15 @@
 
     <!-- Print CSS -->
     <link rel="stylesheet" media="print" type="text/css" href="{{ "/css/print.css" | prepend: site.baseurl }}"> 
+    
+    {% if site.cdn-use == qiniu %}
+    <link href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-    <!-- Custom Fonts -->
-     <link href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    {% else if site.cdn-use == bootcss %}
+    <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    {% end if %}
+
     <!-- Hux change font-awesome CDN to qiniu -->
     <!--<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">-->
 
