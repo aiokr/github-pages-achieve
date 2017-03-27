@@ -66,7 +66,7 @@ header-img: img/post-bg-miui6.jpg
 | The White House Press Secretary          | Sean Spicer              |
 | **President’s Cabinet  (9)**             |                          |
 | ```*```The Secretary of State            | Rex  Tillerson           |
-| ```*```The Secretary of Treasury         | Steven  Mnuchin          |
+| ```*``` ~~The Secretary of Treasury~~         | ~~Steven  Mnuchin~~          |
 | ```*```The Secretary of Defense          | James  Mattis            |
 | ```*```The Attorney General              | Jeff  Sessions           |
 | ```*```The Secretary of Homeland Security | John F. Kelly            |
