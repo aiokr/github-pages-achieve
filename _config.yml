@@ -20,7 +20,7 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: 
+github_username: "aiokr"
 facebook_username: 
 weibo_username:  
 zhihu_username: "starkchen"
@@ -63,10 +63,6 @@ sidebar-avatar: /img/avatar.png    # use absolute URL, seeing it's used in both 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
-# CDN settings
-# bootcss | qiniu
-cdn-use: bootcss
 
 # Friends link
 friends: [
