@@ -1,0 +1,15 @@
+@page {
+size: A4 portrait;
+}
+
+@page :left {
+margin-left: 2cm;
+}
+
+@page :right {
+margin-left: 2cm;
+}
+
+.print-hide{
+  display: none;
+}
