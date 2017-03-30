@@ -10,6 +10,13 @@ margin-left: 2cm;
 margin-left: 2cm;
 }
 
+<<<<<<< HEAD
 .print-hide{
   display: none;
+=======
+@page :blank {
+  @top-center {
+  content: "Jekyll Theme Wapiti"
+  }
+>>>>>>> parent of 7bd7bf9... 更新主题
 }
