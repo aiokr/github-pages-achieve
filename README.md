@@ -14,15 +14,23 @@ a better theme for Github Pages
 
 [Preivew](https://aiokr.github.io)
 
+[repo](https://github.com/aiokr/jekyll-theme-wapiti)
+
 ## 特色功能
 
 标签云支持
 
-友情链接支持
+单页友情链接支持
 
 为打印机优化样式（暂时仅支持文章页）
 
 支持PWA（仅限Chrome for Android）
+
+# 如何使用
+
+Fork本仓库到你的 Github 账户，并且更改仓库的名称为  ```yourname```.github.io
+
+别忘了给这个主题点一个star :)
 
 # How to use?
 
@@ -30,6 +38,14 @@ Fork this repo to your github account and change repo name into ```yourname```.g
 
 give me a star for this repo please :)
 
+---
+我尚且不能将本主题适配到本地安装的Jekyll博客中，如果你能够帮助我，随时可以给我提交Pull Requests，感激不尽！
+
 
 RubyGem: [jekyll-theme-wapiti](https://rubygems.org/gems/jekyll-theme-wapiti)
+
+---
+参考：
+
+[Hux blog](https://github.com/Huxpro/huxpro.github.io)
 
