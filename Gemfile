@@ -1,2 +1,4 @@
 source 'https://rubygems.org'
-gem 'github-pages', '>=104', group: :jekyll_plugins
+
+# Specify your gem's dependencies in jekyll-theme-wapiti.gemspec
+gemspec
