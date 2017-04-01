@@ -18,7 +18,7 @@ a better theme for Github Pages
 
 标签云支持
 
-特色图片支持
+友情链接支持
 
 为打印机优化样式（暂时仅支持文章页）
 
