@@ -81,10 +81,21 @@
                 <p class="print-hide copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
                     <br>
-                    <a href="https://github.com/aiokr/jekyll-theme-wapiti">Wapiti</a>
-                    <br>
                     Theme by <a href="https://www.aiokr.space">aiokr</a> | Power by <a href="https://jekyllrb.com/">Jekyll</a>
                 </p>
+                <div>
+                    <button class="mdui-center mdui-btn mdui-ripple mdui-color-theme-accent" mdui-dialog="{target: '#exampleDialog'}">jekyll-theme-wapiti</button>
+                        <div class="mdui-dialog" id="exampleDialog">
+                        <div class="mdui-dialog-title">jekyll-theme-wapiti</div>
+                        <div class="mdui-dialog-content">
+                            <a href="https://badge.fury.io/rb/jekyll-theme-wapiti"><img src="https://badge.fury.io/rb/jekyll-theme-wapiti.svg" alt="Gem Version" height="18"></a>
+                            <a><img src="https://img.shields.io/badge/QQ%20Group-518839460-orange.svg" alt="QQ Group" height="18"></a>
+                        </div>
+                        <div class="mdui-dialog-actions">
+                            <button class="mdui-btn mdui-ripple" mdui-dialog-close>OK</button>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -95,6 +106,9 @@
 
 <!-- Bootstrap Core JavaScript -->
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+
+<!-- MDUI Core JavaScript -->
+<script src="{{ "/js/mdui.min.js " | prepend: site.baseurl }}"></script>
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/js.js " | prepend: site.baseurl }}"></script>
