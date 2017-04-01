@@ -44,6 +44,23 @@ give me a star for this repo please :)
 
 RubyGem: [jekyll-theme-wapiti](https://rubygems.org/gems/jekyll-theme-wapiti)
 
+
+# Updates:
+
+##v0.1.5
+
+- 独立友情链接页面支持
+
+友情链接移动至独立页面，并且支持头像显示。切换为独立yaml文件控制。
+
+- 文章页面打印效果优化
+
+优化文章页面的打印效果，通过浏览器打印博客时不会显示footer
+
+- 多作者支持
+
+只需在文章头文件部分填入 ```anthor: anthorname``` 即可切换不同的作者
+
 ---
 参考：
 
