@@ -90,6 +90,10 @@
                         <div class="mdui-dialog-content">
                             <a href="https://badge.fury.io/rb/jekyll-theme-wapiti"><img src="https://badge.fury.io/rb/jekyll-theme-wapiti.svg" alt="Gem Version" height="18"></a>
                             <a><img src="https://img.shields.io/badge/QQ%20Group-518839460-orange.svg" alt="QQ Group" height="18"></a>
+                            <br>
+                            {% for info in site.data.info %}
+                                {{ info.content }}
+                            {% endfor %}
                         </div>
                         <div class="mdui-dialog-actions">
                             <button class="mdui-btn mdui-ripple" mdui-dialog-close>OK</button>
