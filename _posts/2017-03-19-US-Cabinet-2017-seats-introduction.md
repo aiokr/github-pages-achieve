@@ -66,12 +66,12 @@ header-img: img/post-bg-miui6.jpg
 | ~~The White House Press Secretary~~      | ~~Sean Spicer~~              |
 | **President’s Cabinet  (9)**             |                              |
 | ```*``` ~~The Secretary of State~~       | ~~Rex  Tillerson~~           |
-| ```*``` ~~The Secretary of Treasury~~    | ~~Steven  Mnuchin~~          |
+| ```*``` The Secretary of Treasury        | Steven  Mnuchin              |
 | ```*``` ~~The Secretary of Defense~~     | ~~James  Mattis~~            |
 | ```*```The Attorney General              | Jeff  Sessions               |
 | ```*```The Secretary of Homeland Security | John F. Kelly                |
 | ~~The Secretary of Commerce~~            | ~~Wilbur Ross~~              |
-| The Director of the National  Intelligence | Mike Pompeo                  |
+| ~~The Director of the National  Intelligence~~ | ~~Mike Pompeo~~              |
 | ```*```The Deputy National Security Advisor | K.  T. McFarland             |
 | ~~The Chairman of the Joint Chiefs of  Staff~~ | ~~(General) Joseph Dunford~~ |
 
