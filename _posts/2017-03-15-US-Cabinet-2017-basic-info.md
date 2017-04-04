@@ -1,6 +1,7 @@
 ---
 title: 美国简介
 date: 2017-03-25 21:07:47
+tags: [MUN,US Cabinet 2017]
 layout: post
 header-img: img/post-bg-miui6.jpg
 ---

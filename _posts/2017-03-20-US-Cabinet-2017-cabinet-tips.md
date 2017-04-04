@@ -1,6 +1,7 @@
 ---
 title: 危机联动内阁注意事项
 date: 2017-03-20 23:58:23
+tags: [MUN,US Cabinet 2017]
 layout: post
 header-img: img/post-bg-miui6.jpg
 catalog: true
