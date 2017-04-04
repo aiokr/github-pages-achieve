@@ -57,22 +57,22 @@ header-img: img/post-bg-miui6.jpg
 美国白宫及内阁,共设席位 14 席：
 (美国国家安全委员会成员均用 ``` * ``` 标注)
 
-| **The  White House (5)**                 |                          |
-| ---------------------------------------- | ------------------------ |
+| **The  White House (5)**                 |                              |
+| ---------------------------------------- | ---------------------------- |
 | ```*``` ~~The President of the United States~~ | ~~Donald Trump~~             |
 | ```*``` ~~The Vice President of the United States~~ | ~~Mike Pence~~               |
-| ```*```The White House Chief of Staff    | Reince Priebus           |
-| ```*```The Assistant to the  President for National Security Affairs | H.R. McMaster            |
-| ~~The White House Press Secretary~~          | ~~Sean Spicer~~              |
-| **President’s Cabinet  (9)**             |                          |
+| ```*```The White House Chief of Staff    | Reince Priebus               |
+| ```*```The Assistant to the  President for National Security Affairs | H.R. McMaster                |
+| ~~The White House Press Secretary~~      | ~~Sean Spicer~~              |
+| **President’s Cabinet  (9)**             |                              |
 | ```*``` ~~The Secretary of State~~       | ~~Rex  Tillerson~~           |
 | ```*``` ~~The Secretary of Treasury~~    | ~~Steven  Mnuchin~~          |
 | ```*``` ~~The Secretary of Defense~~     | ~~James  Mattis~~            |
-| ```*```The Attorney General              | Jeff  Sessions           |
-| ```*```The Secretary of Homeland Security | John F. Kelly            |
-| ~~The Secretary of Commerce~~                | ~~Wilbur Ross~~              |
-| The Director of the National  Intelligence | Mike Pompeo              |
-| ```*```The Deputy National Security Advisor | K.  T. McFarland         |
+| ```*```The Attorney General              | Jeff  Sessions               |
+| ```*```The Secretary of Homeland Security | John F. Kelly                |
+| ~~The Secretary of Commerce~~            | ~~Wilbur Ross~~              |
+| The Director of the National  Intelligence | Mike Pompeo                  |
+| ```*```The Deputy National Security Advisor | K.  T. McFarland             |
 | ~~The Chairman of the Joint Chiefs of  Staff~~ | ~~(General) Joseph Dunford~~ |
 
 # 席位设置介绍
