@@ -1,6 +1,6 @@
 # Site settings
 title: aiokr
-SEOTitle: aiokr blog
+SEOTitle: aiokr
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
 description: "自强不息 厚德载物"  
@@ -23,7 +23,7 @@ twitter_username:
 github_username: "aiokr"
 facebook_username: 
 weibo_username:  
-zhihu_username: "starkchen"
+zhihu_username: "aiokr"
 
 # Build settings  
 # use Github Flavored Markdown !important  
