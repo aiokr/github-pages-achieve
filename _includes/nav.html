@@ -29,8 +29,8 @@
           <!-- Dropdown Structure -->
           <ul id='dropdown1' class='dropdown-content'>
             {% for page in site.pages %}{% if page.title %}
-            {% endif %}{% endfor %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            {% endif %}{% endfor %}
           </ul>
       </ul>
     </div><!-- /.navbar-collapse -->
