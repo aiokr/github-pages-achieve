@@ -27,6 +27,9 @@
 //  $("img").addClass("img-responsive");
 // });
 
+//dropdown
+$(".dropdown-button").dropdown();
+
 // responsive tables
 $(document).ready(function() {
     $("table").wrap("<div class='table-responsive'></div>");
