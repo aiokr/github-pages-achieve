@@ -49,7 +49,7 @@ defaults:
 
 # Comments 
 # Disqus settings
-disqus_username: aiokr
+disqus_username: 
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#03A9F4"
