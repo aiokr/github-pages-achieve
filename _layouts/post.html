@@ -10,7 +10,6 @@ layout: default
 <style type="text/css">
     header.intro-header{
         position: relative;
-        background-image: url({{page.img}});
     }
 
     {% if page.header-mask %}
@@ -22,7 +21,7 @@ layout: default
     }
     {% endif %}
 </style>
-<header class="intro-header" >
+<header class="intro-header" style="background-image: url({{page.img}});">
     <div class="header-mask"></div>
     <div class="container">
         <div class="row">
